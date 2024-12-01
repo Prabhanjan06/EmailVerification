@@ -68,3 +68,32 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Abstact API.
+
+To get an API key from Abstract API, follow these steps:
+
+Step-by-Step Guide:
+Sign Up for an Account:
+
+Visit Abstract API's website.
+Sign up for a free account if you don’t already have one. You may need to provide some basic information and verify your email.
+Log In to Your Account:
+
+After signing up, log in to your Abstract API account.
+Navigate to the API Dashboard:
+
+Once logged in, go to your Dashboard.
+Click on "API Keys" or look for a section that lists your available API keys.
+Generate an API Key:
+
+If an API key has not already been created, you should see an option to create a new API key.
+Choose the type of API you need, such as Email Verification, and create your key.
+Once created, the API key will be displayed on the screen.
+Copy Your API Key:
+
+Copy the generated API key and store it securely. You’ll use this key in your application to authenticate requests.
+Integrate the API Key:
+
+Use the API key in your code or application to make requests to Abstract API.
